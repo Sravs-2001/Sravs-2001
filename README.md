@@ -46,20 +46,10 @@
 
 ---
 
-## 📊 GitHub Energy
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=rose_pine\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=rose_pine\&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME\&theme=rose_pine\&hide_border=true)
-
----
-
 ## 🌍 Connect With Me
 
 💌 LinkedIn: your-linkedin-link
-📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
+📧 Email: [yourmail@example.com](mailto:sravanimadaka1@gmail.com)
 
 ---
 
