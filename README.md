@@ -2,22 +2,22 @@
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90"/>
 
-🌸 Frontend Developer from Hyderabad
-💻 React • TypeScript • JavaScript Enthusiast
-🎀 Creative mind with engineer logic
-🚀 Building dreams one component at a time
+🌸 Frontend Developer from Hyderabad<br/>
+💻 React • TypeScript • JavaScript Enthusiast<br/>
+🎀 Creative mind with engineer logic<br/>
+🚀 Building dreams one component at a time<br/>
 
 ---
 
 ## 💖 About Me
 
-✨ B.Tech in Electrical & Electronics Engineering
-🌷 Passion turned into tech & frontend development
-💼 Working as a Frontend Developer
-⚡ Experience in Telecom, Trading & Retail domains
-🎯 Love building smooth, responsive & beautiful user experiences
-💬 Strong communication + teamwork + problem solving
-🌈 Adaptive, curious, always learning
+✨ B.Tech in Electrical & Electronics Engineering<br/>
+🌷 Passion turned into tech & frontend development<br/>
+💼 Working as a Frontend Developer<br/>
+⚡ Experience in Telecom, Trading & Retail domains<br/>
+🎯 Love building smooth, responsive & beautiful user experiences<br/>
+💬 Strong communication + teamwork + problem solving<br/>
+🌈 Adaptive, curious, always learning<br/>
 
 ---
 
@@ -39,21 +39,21 @@
 
 ## 🌟 Current Goals
 
-🚀 Grow as a top frontend engineer
-🌸 Build premium real-world products
-📚 Keep learning & leveling up daily
-💖 Create work I’m proud of
+🚀 Grow as a top frontend engineer<br/>
+🌸 Build premium real-world products<br/>
+📚 Keep learning & leveling up daily<br/>
+💖 Create work I’m proud of<br/>
 
 ---
 
 ## 🌍 Connect With Me
 
-💌 LinkedIn: your-linkedin-link
+💌 LinkedIn: your-linkedin-link<br/>
 📧 Email: [yourmail@example.com](mailto:sravanimadaka1@gmail.com)
 
 ---
 
 ## 💕 Personal Vibe
 
-✨ *Soft heart. Strong mind. Sharp skills.* ✨
-🌷 *Not just coding websites — creating experiences.*
+✨ *Soft heart. Strong mind. Sharp skills.* ✨<br/>
+🌷 *Not just coding websites — creating experiences.*<br/>
