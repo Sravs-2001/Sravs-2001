@@ -1,4 +1,4 @@
-# 👑✨ Hey, I'm Sravani Madaka 💖
+# 👑✨ Hey, I'm Sravani 💖
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90"/>
 
