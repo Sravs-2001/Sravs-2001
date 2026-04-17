@@ -12,10 +12,10 @@
 ## 💖 About Me
 
 ✨ B.Tech in Electrical & Electronics Engineering
-🌷 Switched passion into tech & frontend development
+🌷 Passion turned into tech & frontend development
 💼 Working as a Frontend Developer
-⚡ Experience across Telecom, Trading & Retail projects
-🎯 Love creating smooth, responsive & beautiful user experiences
+⚡ Experience in Telecom, Trading & Retail domains
+🎯 Love building smooth, responsive & beautiful user experiences
 💬 Strong communication + teamwork + problem solving
 🌈 Adaptive, curious, always learning
 
@@ -23,20 +23,12 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🎨 Styling
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### ⚙️ Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
@@ -49,16 +41,18 @@
 
 🚀 Grow as a top frontend engineer
 🌸 Build premium real-world products
-📚 Keep learning modern web technologies
-💖 Create work I’m proud of every day
+📚 Keep learning & leveling up daily
+💖 Create work I’m proud of
 
 ---
 
 ## 📊 GitHub Energy
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sravs-2001\&show_icons=true\&theme=rose_pine\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=rose_pine\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=rose_pine\&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME\&theme=rose_pine\&hide_border=true)
 
 ---
 
