@@ -48,8 +48,8 @@
 
 ## 🌍 Connect With Me
 
-💌 LinkedIn: your-linkedin-link<br/>
-📧 Email: [yourmail@example.com](mailto:sravanimadaka1@gmail.com)
+💌 LinkedIn: www.linkedin.com/in/sravani-madaka-software<br/>
+📧 Email: sravanimadaka1@gmail.com
 
 ---
 
